@@ -1,3 +1,2 @@
-# Olá, meu nome é Ana Lídia
-## Bem vindo ao meu perfil GitHub!
-### Atualmente estou aprendendo sobre JS, CSS e HTML.
+# Seja bem-vindo ao meu perfil GitHub!
+## Me chamo Ana Lídia e atualmente estou aprendendo sobre JS, CSS e HTML.
